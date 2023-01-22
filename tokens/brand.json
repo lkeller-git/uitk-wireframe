@@ -1,0 +1,182 @@
+{
+  "brand": {
+    "neutral-5": {
+      "value": "#00001B",
+      "type": "color"
+    },
+    "neutral-5-70": {
+      "value": "rgba(0,0,27,0.7)",
+      "type": "color"
+    },
+    "primary-100": {
+      "value": "rgba(46,108,208,1)",
+      "type": "color"
+    },
+    "primary-45-25": {
+      "value": "rgba(99,116,133,0.25)",
+      "type": "color"
+    },
+    "neutral-100": {
+      "value": "rgba(255,255,255,1)",
+      "type": "color"
+    },
+    "neutral-100-50": {
+      "value": "rgba(255,255,255,0.5)",
+      "type": "color"
+    },
+    "neutral-100-15": {
+      "value": "rgba(255,255,255,0.15)",
+      "type": "color"
+    },
+    "font-family-primary": {
+      "value": "Gotham",
+      "type": "fontFamilies"
+    },
+    "font-weight-weak": {
+      "value": "Book",
+      "type": "fontWeights"
+    },
+    "font-weight-moderate": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "font-weight-strong": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "line-height-small": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "line-height-medium": {
+      "value": "125%",
+      "type": "lineHeights"
+    },
+    "line-height-large": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "letter-spacing-small": {
+      "value": "0",
+      "type": "letterSpacing"
+    },
+    "space-xxsmall": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "space-xsmall": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "space-small": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "space-medium": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "space-large": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "space-xlarge": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "space-xxlarge": {
+      "value": "40",
+      "type": "spacing"
+    },
+    "space-xxxlarge": {
+      "value": "56",
+      "type": "spacing"
+    },
+    "size-xxsmall": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "size-xsmall": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "size-small": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "size-medium": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "size-large": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "size-xlarge": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "size-xxlarge": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "rounding-small": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "rounding-medium": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "rounding-large": {
+      "value": "100%",
+      "type": "borderRadius"
+    },
+    "line-width-small": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "line-width-medium": {
+      "value": "2",
+      "type": "borderWidth"
+    },
+    "line-width-large": {
+      "value": "4",
+      "type": "borderWidth"
+    },
+    "font-size": {
+      "mobile-xxsmall": {
+        "value": "10",
+        "type": "fontSizes"
+      },
+      "mobile-xsmall": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "mobile-small": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "mobile-medium": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "mobile-large": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "mobile-xlarge": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "mobile-xxlarge": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "mobile-xxxlarge": {
+        "value": "32",
+        "type": "fontSizes"
+      }
+    }
+  }
+}
