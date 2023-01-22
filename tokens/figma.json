@@ -1,11 +1,11 @@
 {
   "light": {
     "background": {
-      "value": "{dark.background}",
+      "value": "{color.light.default-background}",
       "type": "color"
     },
     "surface": {
-      "value": "{dark.surface}",
+      "value": "{color.light.default-surface}",
       "type": "color"
     },
     "surface-primary": {
@@ -237,7 +237,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-large}",
-        "fontSize": "{brand.font-size.mobile-xxxlarge}",
+        "fontSize": "{brand.font-size.mobile.xxxlarge}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -247,7 +247,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-large}",
-        "fontSize": "{brand.font-size.mobile-xxlarge}",
+        "fontSize": "{brand.font-size.mobile.xxlarge}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -257,7 +257,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-xlarge}",
+        "fontSize": "{brand.font-size.mobile.xlarge}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -267,7 +267,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-weak}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-medium}",
+        "fontSize": "{brand.font-size.mobile.medium}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -277,7 +277,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-large}",
+        "fontSize": "{brand.font-size.mobile.large}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -287,7 +287,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-weak}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-small}",
+        "fontSize": "{brand.font-size.mobile.small}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -297,7 +297,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-weak}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-xsmall}",
+        "fontSize": "{brand.font-size.mobile.xsmall}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -307,7 +307,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-medium}",
+        "fontSize": "{brand.font-size.mobile.medium}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -317,7 +317,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-xsmall}",
+        "fontSize": "{brand.font-size.mobile.xsmall}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -327,7 +327,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile-xxsmall}",
+        "fontSize": "{brand.font-size.mobile.xxsmall}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
