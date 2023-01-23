@@ -1,11 +1,28 @@
 [
   {
+    "id": "8bf7c5e5c79718108ee37cfb4218bc673e194c3f",
+    "name": "mobile",
+    "selectedTokenSets": {
+      "brand": "source",
+      "figma/mobile": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fd8bc6b554b7421632933f6e00b4b742b3f425d0",
+    "name": "shared",
+    "selectedTokenSets": {
+      "brand": "source",
+      "figma/shared": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "5f7beb91029b65073e848d2b36b3a35e48e76ae9",
     "name": "web",
     "selectedTokenSets": {
       "brand": "source",
-      "figma/web": "enabled",
-      "figma/shared": "source"
+      "figma/web": "enabled"
     },
     "$figmaStyleReferences": {
       "light.background": "S:002944a0f49b5bcecd2e91b002300e7086e801e7,",
@@ -75,23 +92,5 @@
       "mobile.label-medium": "S:a1b40453db7dcf3c4604bc0ea672d3535f6e91ee,",
       "mobile.label-small": "S:442412c699ce675c9e9d92b4c0c1c31283161f45,"
     }
-  },
-  {
-    "id": "8bf7c5e5c79718108ee37cfb4218bc673e194c3f",
-    "name": "mobile",
-    "selectedTokenSets": {
-      "brand": "source",
-      "figma/mobile": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "fd8bc6b554b7421632933f6e00b4b742b3f425d0",
-    "name": "shared",
-    "selectedTokenSets": {
-      "brand": "source",
-      "figma/shared": "enabled"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
