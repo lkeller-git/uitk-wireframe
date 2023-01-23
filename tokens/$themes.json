@@ -15,7 +15,34 @@
       "brand": "source",
       "figma/shared": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {
+      "light.background": "S:fc7320c40227a3a880d87044998c5ae2cc1bdf13,",
+      "light.contrast": "S:00c3d4f49a6a27df3505fab7f9fbd33f88f3451b,",
+      "light.link": "S:2fcd0ce9a7d8cda1723dc61589ba9c6672b67c49,",
+      "light.destructive": "S:346f67111a71a9bb8a730af88492e086f1c4f0e9,",
+      "light.success": "S:14067b8f30f0de57ac145817a2e66d7d4eb3e3af,",
+      "light.surface": "S:6c374f2764af23d56b1c5ce979fa718ac248eae6,",
+      "light.primary-surface": "S:0fe09f6446bd2c0478c4305e3f235f78bca5d1eb,",
+      "light.primary-contrast": "S:35fb8c1bc167622b0d28a84dcbdf64410028a120,",
+      "light.secondary-surface": "S:525fa4322e9535d554cbcc4145ec1483e4fc9f05,",
+      "light.secondary-contrast": "S:871195d7fd89f2adc0da722a1edb878bba328eb7,",
+      "light.secondary-surface-border": "S:9f5ce06457487a34561a7dbc2bd63c3495a7f0d2,",
+      "light.overlay-background": "S:f301cec6b2aeb9697a39b7430ab6202a0c30fb6d,",
+      "light.overlay-contrast": "S:d9cd1c8e78bc511275cfd7fd7d4ce7cad72f8fe8,",
+      "dark.background": "S:5d6f445c5fef6cfc1737e86fecda4b4de8a2dcbe,",
+      "dark.contrast": "S:e6a096b1861c0e4057f5ca08df8417287ef5ccc5,",
+      "dark.link": "S:f8729f35eeaf7965a7bf8479c3ddea156560bf4c,",
+      "dark.destructive": "S:0dac08f950a98567337dfd391f97c0e3b8371a29,",
+      "dark.success": "S:7ec7278df6b7be750125a1cff9548fe7c42b2b56,",
+      "dark.surface": "S:ba2116acdc3c1b0da8761392b549b5bacd66e22d,",
+      "dark.primary-surface": "S:c6e361943d6451be8bfe0b448df9320fe37a20f2,",
+      "dark.primary-contrast": "S:8b186ce87dd2054f5aefba4f7b2c4df2da7541d4,",
+      "dark.secondary-surface": "S:5c0ab84373691ace0178f49aa6187d230cfdaaf1,",
+      "dark.secondary-contrast": "S:cb547b18f34680a8c62706adee0292f3a4e77a2c,",
+      "dark.secondary-surface-border": "S:d940aeabb11480b536b7de6a174de878d103c715,",
+      "dark.overlay-background": "S:e50cfba5a7f0a483b789fbc6e92e5210148247a1,",
+      "dark.overlay-contrast": "S:b0dfeed0d12ab8107fa6e26e39af7d2db9d4334a,"
+    }
   },
   {
     "id": "5f7beb91029b65073e848d2b36b3a35e48e76ae9",
