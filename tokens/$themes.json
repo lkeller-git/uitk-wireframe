@@ -90,7 +90,20 @@
       "mobile.title-small": "S:051019ee96b2b3c3ce9182d5df805999939a4489,",
       "mobile.label-large": "S:ed65ec4659b3ab0cd35a3025d4d6db2765ae5ff1,",
       "mobile.label-medium": "S:a1b40453db7dcf3c4604bc0ea672d3535f6e91ee,",
-      "mobile.label-small": "S:442412c699ce675c9e9d92b4c0c1c31283161f45,"
+      "mobile.label-small": "S:442412c699ce675c9e9d92b4c0c1c31283161f45,",
+      "web.display-small": "S:0af97998678149cbd0aab6e74e55461a13d0fa07,",
+      "web.headline-large": "S:2debfeaf5d788b2f17d77d4c9de10dd1f5f872da,",
+      "web.headline-medium": "S:3de06b31fc83546eb9d13135fc3d5579606dc162,",
+      "web.headline-small": "S:8626d4e6bbcd15a0691f55b3cf25456defa92382,",
+      "web.title-large": "S:597bab0cf3f8d472aabdf7b73a2df8530088cdff,",
+      "web.title-medium": "S:91ca5f418c885eae6b7cb2cbf2d168d7ec90217c,",
+      "web.title-small": "S:c3ba0ac9a7d9c714ef60415752bf5a7b9353735b,",
+      "web.body-large": "S:32716ff18e56a58bc7cb1a162f31f317c3a29930,",
+      "web.body-medium": "S:25d0a656c5478f5a5ab3593148e99e016daa943c,",
+      "web.body-small": "S:f6c1723eeadef8ded6e56466a19b69a2367e35f6,",
+      "web.label-large": "S:a03c19aa37a60cb3f5a01c20518ca0967de5a183,",
+      "web.label-medium": "S:2fcf1f9a32e93f702fa8f7f8e78d8eb63d5fed6f,",
+      "web.label-small": "S:2b51c96f8d6026ab54a458441d42f3d0b8b7bc02,"
     }
   }
 ]
