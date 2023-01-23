@@ -1,31 +1,35 @@
 {
   "brand": {
-    "neutral-5": {
-      "value": "#00001B",
-      "type": "color"
-    },
-    "neutral-5-70": {
-      "value": "rgba(0,0,27,0.7)",
-      "type": "color"
-    },
-    "primary-100": {
-      "value": "rgba(46,108,208,1)",
-      "type": "color"
-    },
-    "primary-45-25": {
-      "value": "rgba(99,116,133,0.25)",
-      "type": "color"
-    },
     "neutral-100": {
       "value": "rgba(255,255,255,1)",
       "type": "color"
     },
-    "neutral-100-50": {
-      "value": "rgba(255,255,255,0.5)",
+    "neutral-10": {
+      "value": "#091225",
       "type": "color"
     },
-    "neutral-100-15": {
-      "value": "rgba(255,255,255,0.15)",
+    "neutral-5-70": {
+      "value": "rgba(4,6,12,0.7)",
+      "type": "color"
+    },
+    "neutral-5": {
+      "value": "#04070D",
+      "type": "color"
+    },
+    "neutral-0": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "primary-50": {
+      "value": "#004EE5",
+      "type": "color"
+    },
+    "primary-60": {
+      "value": "#548EFF",
+      "type": "color"
+    },
+    "primary-96": {
+      "value": "#EBF1FF",
       "type": "color"
     },
     "font-family-primary": {
@@ -213,6 +217,22 @@
           "type": "fontSizes"
         }
       }
+    },
+    "red-50": {
+      "value": "#E21642",
+      "type": "color"
+    },
+    "red-35": {
+      "value": "#ad052a",
+      "type": "color"
+    },
+    "green-50": {
+      "value": "#28C77A",
+      "type": "color"
+    },
+    "green-35": {
+      "value": "#00A556",
+      "type": "color"
     }
   }
 }

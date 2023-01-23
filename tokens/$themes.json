@@ -27,19 +27,12 @@
     "$figmaStyleReferences": {
       "light.background": "S:002944a0f49b5bcecd2e91b002300e7086e801e7,",
       "light.surface": "S:794277e3e12b2fb30c17f1543e1d526c3e5bb345,",
-      "light.surface-primary": "S:e839f31037cbb7c3c00596d9730e247bc44ffaf2,",
       "light.surface-primary-border": "S:29b2bea9ae1ccbcb22beb28e6d202526ce689de9,",
       "light.surface-primary-disabled": "S:b97157af002dd9ff76fc5e0a9de1ca2792f7e1ed,",
-      "light.surface-secondary": "S:21092025b805cef5b9f05cf4e477a06fd763a7e1,",
-      "light.surface-secondary-border": "S:80dc6146fd646367002a92994dbbe571270a2d8b,",
       "light.surface-secondary-disabled": "S:b5fb72ee56036784b6836a0a880ddb30fea29a90,",
       "light.contrast": "S:89a413137b8998c00be10afc54f57fcb8f0116ee,",
-      "light.contrast-link": "S:e81080185d6fb93b27aaa73583067e0c8fe9dc0e,",
-      "light.contrast-primary": "S:3a96c3459e265d2867e8d46ea13d806bfce085ff,",
       "light.contrast-primary-disabled": "S:9bccfcd784fb12d69efaaec02ce89df9bc7e35de,",
-      "light.contrast-secondary": "S:2345181bd609ee4b6802f3c4b03bb7c6aff6b674,",
       "light.contrast-secondary-disabled": "S:c7d4c9c0fa079f92c39dac99b2cdc6a5750777df,",
-      "light.overlay.background": "S:2140a89f9ead5caec581cb36b230ca8a40595497,",
       "light.overlay.surface": "S:e3281a6015c22edbe32a288d6288f620a22c38a2,",
       "light.overlay.surface-primary": "S:43de0c2f0900967cfe53241191e3fda9622671a4,",
       "light.overlay.surface-primary-border": "S:2cf205b50c76ff0eee0a39d26a71864ad97f8c29,",
@@ -103,7 +96,14 @@
       "web.body-small": "S:f6c1723eeadef8ded6e56466a19b69a2367e35f6,",
       "web.label-large": "S:a03c19aa37a60cb3f5a01c20518ca0967de5a183,",
       "web.label-medium": "S:2fcf1f9a32e93f702fa8f7f8e78d8eb63d5fed6f,",
-      "web.label-small": "S:2b51c96f8d6026ab54a458441d42f3d0b8b7bc02,"
+      "web.label-small": "S:2b51c96f8d6026ab54a458441d42f3d0b8b7bc02,",
+      "light.link": "S:e81080185d6fb93b27aaa73583067e0c8fe9dc0e,",
+      "light.primary-surface": "S:e839f31037cbb7c3c00596d9730e247bc44ffaf2,",
+      "light.secondary-surface": "S:21092025b805cef5b9f05cf4e477a06fd763a7e1,",
+      "light.secondary-surface-border": "S:80dc6146fd646367002a92994dbbe571270a2d8b,",
+      "light.primary-contrast": "S:3a96c3459e265d2867e8d46ea13d806bfce085ff,",
+      "light.secondary-contrast": "S:2345181bd609ee4b6802f3c4b03bb7c6aff6b674,",
+      "light.overlay-background": "S:2140a89f9ead5caec581cb36b230ca8a40595497,"
     }
   }
 ]
