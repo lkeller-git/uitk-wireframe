@@ -1,58 +1,4 @@
 {
-  "light": {
-    "background": {
-      "value": "{brand.neutral-100}",
-      "type": "color"
-    },
-    "contrast": {
-      "value": "{brand.neutral-0}",
-      "type": "color"
-    },
-    "link": {
-      "value": "{brand.primary-50}",
-      "type": "color"
-    },
-    "destructive": {
-      "value": "{brand.red-35}",
-      "type": "color"
-    },
-    "success": {
-      "value": "{brand.green-35}",
-      "type": "color"
-    },
-    "surface": {
-      "value": "{brand.primary-96}",
-      "type": "color"
-    },
-    "primary-surface": {
-      "value": "{brand.primary-50}",
-      "type": "color"
-    },
-    "primary-contrast": {
-      "value": "{brand.neutral-100}",
-      "type": "color"
-    },
-    "secondary-surface": {
-      "value": "{brand.primary-96}",
-      "type": "color"
-    },
-    "secondary-contrast": {
-      "value": "{brand.primary-50}",
-      "type": "color"
-    },
-    "secondary-surface-border": {
-      "value": "{brand.primary-50}",
-      "type": "color"
-    },
-    "overlay-background": {
-      "value": "{brand.neutral-5-70}",
-      "type": "color"
-    },
-    "overlay-contrast": {
-      "value": "{brand.neutral-100}",
-      "type": "color"
-    }
-  },
   "dark": {
     "background": {
       "value": "{brand.neutral-5}",
@@ -96,6 +42,60 @@
     },
     "secondary-surface-border": {
       "value": "{brand.primary-60}",
+      "type": "color"
+    },
+    "overlay-background": {
+      "value": "{brand.neutral-5-70}",
+      "type": "color"
+    },
+    "overlay-contrast": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    }
+  },
+  "light": {
+    "background": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
+    "contrast": {
+      "value": "{brand.neutral-0}",
+      "type": "color"
+    },
+    "link": {
+      "value": "{brand.primary-50}",
+      "type": "color"
+    },
+    "destructive": {
+      "value": "{brand.red-35}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{brand.green-35}",
+      "type": "color"
+    },
+    "surface": {
+      "value": "{brand.primary-96}",
+      "type": "color"
+    },
+    "primary-surface": {
+      "value": "{brand.primary-50}",
+      "type": "color"
+    },
+    "primary-contrast": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
+    "secondary-surface": {
+      "value": "{brand.primary-96}",
+      "type": "color"
+    },
+    "secondary-contrast": {
+      "value": "{brand.primary-50}",
+      "type": "color"
+    },
+    "secondary-surface-border": {
+      "value": "{brand.primary-50}",
       "type": "color"
     },
     "overlay-background": {
