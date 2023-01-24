@@ -219,7 +219,11 @@
       }
     },
     "red-50": {
-      "value": "#E21642",
+      "value": "#e01f49",
+      "type": "color"
+    },
+    "red-60": {
+      "value": "#e74b6d",
       "type": "color"
     },
     "red-35": {

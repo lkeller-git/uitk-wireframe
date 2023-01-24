@@ -13,7 +13,7 @@
       "type": "color"
     },
     "destructive": {
-      "value": "{brand.red-50}",
+      "value": "{brand.red-60}",
       "type": "color"
     },
     "success": {
@@ -28,7 +28,7 @@
       "value": "{brand.primary-60}",
       "type": "color"
     },
-    "primary-contrast": {
+    "primary-surface-contrast": {
       "value": "{brand.neutral-5}",
       "type": "color"
     },
@@ -36,12 +36,24 @@
       "value": "{brand.neutral-10}",
       "type": "color"
     },
-    "secondary-contrast": {
+    "secondary-surface-contrast": {
       "value": "{brand.primary-60}",
       "type": "color"
     },
     "secondary-surface-border": {
       "value": "{brand.primary-60}",
+      "type": "color"
+    },
+    "destructive-surface-contrast": {
+      "value": "{brand.neutral-0}",
+      "type": "color"
+    },
+    "destructive-surface": {
+      "value": "{brand.red-60}",
+      "type": "color"
+    },
+    "destructive-surface-link": {
+      "value": "{brand.neutral-0}",
       "type": "color"
     },
     "overlay-background": {
@@ -82,7 +94,11 @@
       "value": "{brand.primary-50}",
       "type": "color"
     },
-    "primary-contrast": {
+    "primary-surface-contrast": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
+    "primary-surface-link": {
       "value": "{brand.neutral-100}",
       "type": "color"
     },
@@ -90,7 +106,11 @@
       "value": "{brand.primary-96}",
       "type": "color"
     },
-    "secondary-contrast": {
+    "secondary-surface-contrast": {
+      "value": "{brand.primary-50}",
+      "type": "color"
+    },
+    "secondary-surface-link": {
       "value": "{brand.primary-50}",
       "type": "color"
     },
@@ -98,11 +118,27 @@
       "value": "{brand.primary-50}",
       "type": "color"
     },
+    "destructive-surface-contrast": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
+    "destructive-surface": {
+      "value": "{brand.red-50}",
+      "type": "color"
+    },
+    "destructive-surface-link": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
     "overlay-background": {
       "value": "{brand.neutral-5-70}",
       "type": "color"
     },
     "overlay-contrast": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
+    "overlay-link": {
       "value": "{brand.neutral-100}",
       "type": "color"
     }
