@@ -5,7 +5,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-large}",
-        "fontSize": "{brand.font-size.mobile.xxlarge}",
+        "fontSize": "{brand.font-size.mobile.xxxlarge}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
