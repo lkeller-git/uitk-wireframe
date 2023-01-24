@@ -53,9 +53,9 @@
     "title-medium": {
       "value": {
         "fontFamily": "{brand.font-family-primary}",
-        "fontWeight": "{brand.font-weight-moderate}",
+        "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile.small}",
+        "fontSize": "{brand.font-size.mobile.medium}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -65,7 +65,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-weak}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile.xsmall}",
+        "fontSize": "{brand.font-size.mobile.medium}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
