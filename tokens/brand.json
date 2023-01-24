@@ -33,11 +33,11 @@
       "type": "color"
     },
     "font-family-primary": {
-      "value": "Gotham",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "font-weight-weak": {
-      "value": "Book",
+      "value": "Regular",
       "type": "fontWeights"
     },
     "font-weight-moderate": {
