@@ -25,7 +25,7 @@
         "fontFamily": "{brand.font-family-primary}",
         "fontWeight": "{brand.font-weight-strong}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile.medium}",
+        "fontSize": "{brand.font-size.mobile.large}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
