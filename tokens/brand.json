@@ -265,6 +265,18 @@
     "green-50": {
       "value": "#2AD583",
       "type": "color"
+    },
+    "icon-small": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "icon-medium": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "icon-large": {
+      "value": "32",
+      "type": "sizing"
     }
   }
 }
