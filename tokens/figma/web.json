@@ -1,4 +1,56 @@
 {
+  "action-small": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "action-medium": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "action-large": {
+    "value": "56",
+    "type": "sizing"
+  },
+  "touch-target-large": {
+    "value": "44",
+    "type": "sizing"
+  },
+  "touch-target-small": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "item-spacing-xxsmall": {
+    "value": "2",
+    "type": "sizing"
+  },
+  "item-spacing-xsmall": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "item-spacing-small": {
+    "value": "8",
+    "type": "sizing"
+  },
+  "item-spacing-medium": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "item-spacing-large": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "item-spacing-xlarge": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "item-spacing-xxlarge": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "item-spacing-xxxlarge": {
+    "value": "56",
+    "type": "sizing"
+  },
   "web": {
     "display-small": {
       "value": {

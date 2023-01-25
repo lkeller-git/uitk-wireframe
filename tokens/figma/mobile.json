@@ -1,4 +1,56 @@
 {
+  "action-small": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "action-medium": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "action-large": {
+    "value": "56",
+    "type": "sizing"
+  },
+  "touch-target-large": {
+    "value": "44",
+    "type": "sizing"
+  },
+  "touch-target-small": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "item-spacing-xxsmall": {
+    "value": "2",
+    "type": "sizing"
+  },
+  "item-spacing-xsmall": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "item-spacing-small": {
+    "value": "8",
+    "type": "sizing"
+  },
+  "item-spacing-medium": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "item-spacing-large": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "item-spacing-xlarge": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "item-spacing-xxlarge": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "item-spacing-xxxlarge": {
+    "value": "56",
+    "type": "sizing"
+  },
   "mobile": {
     "display-small": {
       "value": {
@@ -103,7 +155,7 @@
     "label-large": {
       "value": {
         "fontFamily": "{brand.font-family-primary}",
-        "fontWeight": "{brand.font-weight-strong}",
+        "fontWeight": "{brand.font-weight-moderate}",
         "lineHeight": "{brand.line-height-medium}",
         "fontSize": "{brand.font-size.mobile.medium}",
         "letterSpacing": "{brand.letter-spacing-small}"
@@ -113,9 +165,9 @@
     "label-medium": {
       "value": {
         "fontFamily": "{brand.font-family-primary}",
-        "fontWeight": "{brand.font-weight-strong}",
+        "fontWeight": "{brand.font-weight-moderate}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile.xsmall}",
+        "fontSize": "{brand.font-size.mobile.small}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"
@@ -123,9 +175,9 @@
     "label-small": {
       "value": {
         "fontFamily": "{brand.font-family-primary}",
-        "fontWeight": "{brand.font-weight-strong}",
+        "fontWeight": "{brand.font-weight-moderate}",
         "lineHeight": "{brand.line-height-medium}",
-        "fontSize": "{brand.font-size.mobile.xxsmall}",
+        "fontSize": "{brand.font-size.mobile.xsmall}",
         "letterSpacing": "{brand.letter-spacing-small}"
       },
       "type": "typography"

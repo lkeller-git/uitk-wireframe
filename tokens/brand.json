@@ -112,38 +112,6 @@
       "value": "0",
       "type": "letterSpacing"
     },
-    "space-xxsmall": {
-      "value": "2",
-      "type": "spacing"
-    },
-    "space-xsmall": {
-      "value": "4",
-      "type": "spacing"
-    },
-    "space-small": {
-      "value": "8",
-      "type": "spacing"
-    },
-    "space-medium": {
-      "value": "16",
-      "type": "spacing"
-    },
-    "space-large": {
-      "value": "24",
-      "type": "spacing"
-    },
-    "space-xlarge": {
-      "value": "32",
-      "type": "spacing"
-    },
-    "space-xxlarge": {
-      "value": "40",
-      "type": "spacing"
-    },
-    "space-xxxlarge": {
-      "value": "56",
-      "type": "spacing"
-    },
     "size-xxsmall": {
       "value": "8",
       "type": "sizing"
@@ -170,38 +138,6 @@
     },
     "size-xxlarge": {
       "value": "56",
-      "type": "sizing"
-    },
-    "action-small": {
-      "value": "16",
-      "type": "sizing"
-    },
-    "action-medium": {
-      "value": "40",
-      "type": "sizing"
-    },
-    "action-large": {
-      "value": "56",
-      "type": "sizing"
-    },
-    "touch-target-large": {
-      "value": "44",
-      "type": "sizing"
-    },
-    "touch-target-small": {
-      "value": "32",
-      "type": "sizing"
-    },
-    "icon-small": {
-      "value": "16",
-      "type": "sizing"
-    },
-    "icon-medium": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "icon-large": {
-      "value": "32",
       "type": "sizing"
     },
     "rounding-small": {

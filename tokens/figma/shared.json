@@ -1,4 +1,16 @@
 {
+  "icon-small": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "icon-medium": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "icon-large": {
+    "value": "32",
+    "type": "sizing"
+  },
   "dark": {
     "background": {
       "value": "{brand.neutral-5}",
