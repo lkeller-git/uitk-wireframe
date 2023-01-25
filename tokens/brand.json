@@ -1,55 +1,35 @@
 {
   "brand": {
+    "neutral-100": {
+      "value": "rgba(255,255,255,1)",
+      "type": "color"
+    },
+    "neutral-10": {
+      "value": "#091225",
+      "type": "color"
+    },
+    "neutral-5-70": {
+      "value": "rgba(4,6,12,0.7)",
+      "type": "color"
+    },
+    "neutral-5": {
+      "value": "#04070D",
+      "type": "color"
+    },
     "neutral-0": {
       "value": "#000000",
       "type": "color"
     },
-    "blue-5": {
-      "value": "#060a14",
+    "primary-50": {
+      "value": "#004EE5",
       "type": "color"
     },
-    "blue-5-70": {
-      "value": "rgba(6,10,20,0.7)",
+    "primary-60": {
+      "value": "#548EFF",
       "type": "color"
     },
-    "blue-10": {
-      "value": "#08142B",
-      "type": "color"
-    },
-    "blue-20": {
-      "value": "#002366",
-      "type": "color"
-    },
-    "blue-30": {
-      "value": "#003499",
-      "type": "color"
-    },
-    "blue-40": {
-      "value": "#0045CC",
-      "type": "color"
-    },
-    "blue-50": {
-      "value": "#0057FF",
-      "type": "color"
-    },
-    "blue-60": {
-      "value": "#3378FF",
-      "type": "color"
-    },
-    "blue-70": {
-      "value": "#669AFF",
-      "type": "color"
-    },
-    "blue-80": {
-      "value": "#B1C3E7",
-      "type": "color"
-    },
-    "blue-90": {
-      "value": "#D8E1F3",
-      "type": "color"
-    },
-    "blue-95": {
-      "value": "#F3F6FB",
+    "primary-96": {
+      "value": "#EBF1FF",
       "type": "color"
     },
     "font-family-primary": {
@@ -238,43 +218,43 @@
         }
       }
     },
-    "neutral-100": {
-      "value": "rgba(255,255,255,1)",
-      "type": "color"
-    },
-    "red-40": {
-      "value": "#B4183A",
-      "type": "color"
-    },
     "red-50": {
-      "value": "#E11E49",
+      "value": "#e01f49",
       "type": "color"
     },
     "red-60": {
-      "value": "#E74B6D",
+      "value": "#e74b6d",
       "type": "color"
     },
-    "green-30": {
-      "value": "#19804F",
-      "type": "color"
-    },
-    "green-40": {
-      "value": "#22AA69",
+    "red-35": {
+      "value": "#ad052a",
       "type": "color"
     },
     "green-50": {
-      "value": "#2AD583",
+      "value": "#28C77A",
       "type": "color"
     },
-    "icon-small": {
+    "action-small": {
       "value": "16",
       "type": "sizing"
     },
-    "icon-medium": {
-      "value": "24",
+    "action-medium": {
+      "value": "40",
       "type": "sizing"
     },
-    "icon-large": {
+    "green-35": {
+      "value": "#00A556",
+      "type": "color"
+    },
+    "action-large": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "touch-target-large": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "touch-target-small": {
       "value": "32",
       "type": "sizing"
     }
