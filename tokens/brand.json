@@ -4,51 +4,51 @@
       "value": "#000000",
       "type": "color"
     },
-    "brand-5": {
+    "blue-5": {
       "value": "#060a14",
       "type": "color"
     },
-    "brand-5-70": {
+    "blue-5-70": {
       "value": "rgba(6,10,20,0.7)",
       "type": "color"
     },
-    "brand-10": {
+    "blue-10": {
       "value": "#08142B",
       "type": "color"
     },
-    "brand-20": {
+    "blue-20": {
       "value": "#002366",
       "type": "color"
     },
-    "brand-30": {
+    "blue-30": {
       "value": "#003499",
       "type": "color"
     },
-    "brand-40": {
+    "blue-40": {
       "value": "#0045CC",
       "type": "color"
     },
-    "primary-50": {
+    "blue-50": {
       "value": "#0057FF",
       "type": "color"
     },
-    "primary-60": {
+    "blue-60": {
       "value": "#3378FF",
       "type": "color"
     },
-    "primary-70": {
+    "blue-70": {
       "value": "#669AFF",
       "type": "color"
     },
-    "primary-80": {
+    "blue-80": {
       "value": "#B1C3E7",
       "type": "color"
     },
-    "primary-90": {
+    "blue-90": {
       "value": "#D8E1F3",
       "type": "color"
     },
-    "primary-95": {
+    "blue-95": {
       "value": "#F3F6FB",
       "type": "color"
     },
