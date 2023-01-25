@@ -1,7 +1,7 @@
 {
   "dark": {
     "background": {
-      "value": "{brand.neutral-5}",
+      "value": "{brand.brand-5}",
       "type": "color"
     },
     "contrast": {
@@ -9,7 +9,7 @@
       "type": "color"
     },
     "contrast-inverse": {
-      "value": "{brand.neutral-5}",
+      "value": "{brand.brand-5}",
       "type": "color"
     },
     "brand": {
@@ -25,7 +25,7 @@
       "type": "color"
     },
     "overlay": {
-      "value": "{brand.neutral-5-70}",
+      "value": "{brand.brand-5-70}",
       "type": "color"
     }
   },
@@ -47,15 +47,15 @@
       "type": "color"
     },
     "warning": {
-      "value": "{brand.red-35}",
+      "value": "{brand.red-40}",
       "type": "color"
     },
     "success": {
-      "value": "{brand.green-35}",
+      "value": "{brand.green-30}",
       "type": "color"
     },
     "overlay": {
-      "value": "{brand.neutral-5-70}",
+      "value": "{brand.brand-5-70}",
       "type": "color"
     }
   }

@@ -1,35 +1,55 @@
 {
   "brand": {
-    "neutral-100": {
-      "value": "rgba(255,255,255,1)",
-      "type": "color"
-    },
-    "neutral-10": {
-      "value": "#091225",
-      "type": "color"
-    },
-    "neutral-5-70": {
-      "value": "rgba(4,6,12,0.7)",
-      "type": "color"
-    },
-    "neutral-5": {
-      "value": "#04070D",
-      "type": "color"
-    },
     "neutral-0": {
       "value": "#000000",
       "type": "color"
     },
+    "brand-5": {
+      "value": "#060a14",
+      "type": "color"
+    },
+    "brand-5-70": {
+      "value": "rgba(6,10,20,0.7)",
+      "type": "color"
+    },
+    "brand-10": {
+      "value": "#08142B",
+      "type": "color"
+    },
+    "brand-20": {
+      "value": "#002366",
+      "type": "color"
+    },
+    "brand-30": {
+      "value": "#003499",
+      "type": "color"
+    },
+    "brand-40": {
+      "value": "#0045CC",
+      "type": "color"
+    },
     "primary-50": {
-      "value": "#004EE5",
+      "value": "#0057FF",
       "type": "color"
     },
     "primary-60": {
-      "value": "#548EFF",
+      "value": "#3378FF",
       "type": "color"
     },
-    "primary-96": {
-      "value": "#EBF1FF",
+    "primary-70": {
+      "value": "#669AFF",
+      "type": "color"
+    },
+    "primary-80": {
+      "value": "#B1C3E7",
+      "type": "color"
+    },
+    "primary-90": {
+      "value": "#D8E1F3",
+      "type": "color"
+    },
+    "primary-95": {
+      "value": "#F3F6FB",
       "type": "color"
     },
     "font-family-primary": {
@@ -218,24 +238,32 @@
         }
       }
     },
+    "neutral-100": {
+      "value": "rgba(255,255,255,1)",
+      "type": "color"
+    },
+    "red-40": {
+      "value": "#B4183A",
+      "type": "color"
+    },
     "red-50": {
-      "value": "#e01f49",
+      "value": "#E11E49",
       "type": "color"
     },
     "red-60": {
-      "value": "#e74b6d",
+      "value": "#E74B6D",
       "type": "color"
     },
-    "red-35": {
-      "value": "#ad052a",
+    "green-30": {
+      "value": "#19804F",
+      "type": "color"
+    },
+    "green-40": {
+      "value": "#22AA69",
       "type": "color"
     },
     "green-50": {
-      "value": "#28C77A",
-      "type": "color"
-    },
-    "green-35": {
-      "value": "#00A556",
+      "value": "#2AD583",
       "type": "color"
     }
   }
