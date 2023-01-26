@@ -4,6 +4,14 @@
       "value": "#000000",
       "type": "color"
     },
+    "neutral-40": {
+      "value": "#596378",
+      "type": "color"
+    },
+    "neutral-100": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
     "blue-5": {
       "value": "#060a14",
       "type": "color"
@@ -50,10 +58,6 @@
     },
     "blue-95": {
       "value": "#F3F6FB",
-      "type": "color"
-    },
-    "neutral-100": {
-      "value": "rgba(255,255,255,1)",
       "type": "color"
     },
     "red-40": {
