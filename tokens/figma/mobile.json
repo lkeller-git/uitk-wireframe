@@ -11,12 +11,12 @@
     "value": "56",
     "type": "sizing"
   },
-  "touch-target-large": {
-    "value": "44",
-    "type": "sizing"
-  },
   "touch-target-small": {
     "value": "32",
+    "type": "sizing"
+  },
+  "touch-target-large": {
+    "value": "44",
     "type": "sizing"
   },
   "item-spacing-xxsmall": {
@@ -180,5 +180,21 @@
       "letterSpacing": "{brand.letter-spacing-small}"
     },
     "type": "typography"
+  },
+  "button": {
+    "touch-target": {
+      "small": {
+        "value": {
+          "height": "{touch-target-small}"
+        },
+        "type": "composition"
+      },
+      "large": {
+        "value": {
+          "height": "{touch-target-large}"
+        },
+        "type": "composition"
+      }
+    }
   }
 }

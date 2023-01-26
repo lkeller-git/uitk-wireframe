@@ -11,12 +11,12 @@
     "value": "56",
     "type": "sizing"
   },
-  "touch-target-large": {
-    "value": "44",
-    "type": "sizing"
-  },
   "touch-target-small": {
     "value": "32",
+    "type": "sizing"
+  },
+  "touch-target-large": {
+    "value": "44",
     "type": "sizing"
   },
   "item-spacing-xxsmall": {
