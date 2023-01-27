@@ -90,7 +90,6 @@
       "dark.default.background": "S:1f66d27ac483548c54b04e9699627ec95284a06c,",
       "dark.primary-action.state.surface-disabled": "S:3b3ec66fec9f2f68d3e751d567f51c34a92a17b8,",
       "dark.secondary-action.state.contrast-disabled": "S:d651d5c2baa14af09f204d5b1166f4008004a2a1,",
-      "dark.secondary-action.state.surface-disabled": "S:332ff347334493d5d7e327a01b87e412e241da33,",
       "dark.secondary-action.state.contrast-error": "S:da502fea5f517d8679e0a4bbf654458bb1154d97,",
       "dark.secondary-action.state.contrast-success": "S:037ba7981d1eec16865cd0131aebd7c95d860d91,",
       "dark.secondary-action.state.border-disabled": "S:cd2f765a66b87778c69804dc89b76cdfd3e4aa47,",
@@ -107,7 +106,6 @@
       "dark.tertiary-action.contrast": "S:e98f4b03b1cfba24f6fe88a802ae6decba7b5d29,",
       "dark.tertiary-action.state.surface-disabled": "S:c866e834e69ab02fb3704e1f97fa201fb80b82d5,",
       "dark.tertiary-action.state.surface-hover": "S:632181a78706a304f1aeec2707abc940680072c8,",
-      "dark.tertiary-action.state.contrast-disabled": "S:412f9c92936ca5ed0d68b76687aa79e1349234f5,",
       "dark.input.surface": "S:ba3d3eec1ce2eb3ffaab52278442b2548df31ac9,",
       "dark.input.contrast": "S:205ef6bba7ca17cf3fa50f85d5f519a40165667c,",
       "dark.input.border": "S:757833e2fadbf7ea4a6b4f12132c6df120424685,",
@@ -121,7 +119,11 @@
       "dark.input.state.border-success": "S:e92d20e1dad096729e86d194472e6f2a75144689,",
       "dark.input.state.border-disabled": "S:0de5884837fac732cbdadf9bad133afe13d88eb6,",
       "dark.default.state.contrast-error": "S:7b1133bd00462713cb5226e4215f1396ca050960,",
-      "dark.default.state.contrast-success": "S:b4f17465e88af73bc5944ae0d03fad99e9a73c20,"
+      "dark.default.state.contrast-success": "S:b4f17465e88af73bc5944ae0d03fad99e9a73c20,",
+      "dark.tertiary-action.state.contrast-error": "S:3d9cf022545cc9ae5afb75f7f339a6221affb503,",
+      "dark.secondary-action.state.surface-disabled": "S:332ff347334493d5d7e327a01b87e412e241da33,",
+      "dark.secondary-action.state.surface-hovered": "S:cd9e98dc2eb0fe0f9ff03c243f46fe9eaa2083ae,",
+      "dark.tertiary-action.state.contrast-disabled": "S:412f9c92936ca5ed0d68b76687aa79e1349234f5,"
     }
   },
   {
