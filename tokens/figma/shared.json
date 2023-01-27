@@ -122,20 +122,20 @@
         "type": "color"
       },
       "state": {
-        "contrast-disabled": {
-          "value": "#16243F",
-          "type": "color"
-        },
-        "contrast-error": {
-          "value": "#BA4060",
+        "surface-hover": {
+          "value": "#0A152B",
           "type": "color"
         },
         "surface-disabled": {
           "value": "clear",
           "type": "color"
         },
-        "surface-hover": {
-          "value": "#0A152B",
+        "contrast-error": {
+          "value": "#BA4060",
+          "type": "color"
+        },
+        "contrast-disabled": {
+          "value": "#16243F",
           "type": "color"
         }
       }
@@ -162,6 +162,10 @@
           "value": "#304F8C",
           "type": "color"
         },
+        "contrast-focused": {
+          "value": "{brand.blue-60}",
+          "type": "color"
+        },
         "contrast-error": {
           "value": "#BA4060",
           "type": "color"
@@ -171,7 +175,7 @@
           "type": "color"
         },
         "contrast-disabled": {
-          "value": "#050B16",
+          "value": "#16243F",
           "type": "color"
         },
         "border-focused": {
