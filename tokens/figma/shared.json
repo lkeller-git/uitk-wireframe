@@ -21,13 +21,15 @@
         "value": "{brand.neutral-100}",
         "type": "color"
       },
-      "contrast-error": {
-        "value": "{brand.red-60}",
-        "type": "color"
-      },
-      "contrast-success": {
-        "value": "{brand.green-50}",
-        "type": "color"
+      "state": {
+        "contrast-error": {
+          "value": "{brand.red-60}",
+          "type": "color"
+        },
+        "contrast-success": {
+          "value": "{brand.green-50}",
+          "type": "color"
+        }
       }
     },
     "primary-action": {

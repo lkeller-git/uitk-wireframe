@@ -180,21 +180,5 @@
       "letterSpacing": "{brand.letter-spacing-small}"
     },
     "type": "typography"
-  },
-  "button": {
-    "touch-target": {
-      "small": {
-        "value": {
-          "height": "{touch-target-small}"
-        },
-        "type": "composition"
-      },
-      "large": {
-        "value": {
-          "height": "{touch-target-large}"
-        },
-        "type": "composition"
-      }
-    }
   }
 }
