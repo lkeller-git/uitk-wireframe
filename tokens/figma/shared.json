@@ -12,27 +12,29 @@
     "type": "sizing"
   },
   "dark": {
-    "default": {
-      "background": {
-        "value": "{brand.blue-5}",
+    "background": {
+      "value": "{brand.blue-5}",
+      "type": "color"
+    },
+    "contrast": {
+      "value": "{brand.neutral-100}",
+      "type": "color"
+    },
+    "state": {
+      "contrast-error": {
+        "value": "#E74B6D",
         "type": "color"
       },
-      "contrast": {
-        "value": "{brand.neutral-100}",
+      "contrast-success": {
+        "value": "{brand.green-50}",
         "type": "color"
       },
-      "state": {
-        "contrast-error": {
-          "value": "{brand.red-60}",
-          "type": "color"
-        },
-        "contrast-success": {
-          "value": "{brand.green-50}",
-          "type": "color"
-        }
+      "contrast-disabled": {
+        "value": "#4F5156",
+        "type": "color"
       }
     },
-    "primary-action": {
+    "action-primary": {
       "surface": {
         "value": "{brand.blue-60}",
         "type": "color"
@@ -42,12 +44,12 @@
         "type": "color"
       },
       "state": {
-        "surface-error": {
-          "value": "#BA4060",
-          "type": "color"
-        },
         "surface-hover": {
           "value": "#669AFF",
+          "type": "color"
+        },
+        "surface-error": {
+          "value": "#BA4060",
           "type": "color"
         },
         "surface-disabled": {
@@ -64,7 +66,7 @@
         }
       }
     },
-    "secondary-action": {
+    "action-secondary": {
       "surface": {
         "value": "{brand.blue-10}",
         "type": "color"
@@ -112,7 +114,7 @@
         }
       }
     },
-    "tertiary-action": {
+    "action-tertiary": {
       "surface": {
         "value": "clear",
         "type": "color"
@@ -194,6 +196,42 @@
           "value": "#16243F",
           "type": "color"
         }
+      }
+    },
+    "select": {
+      "state": {
+        "surface-selected": {
+          "value": "{brand.blue-60}",
+          "type": "color"
+        },
+        "contrast-selected": {
+          "value": "{brand.blue-5}",
+          "type": "color"
+        },
+        "contrast-error": {
+          "value": "#BA4060",
+          "type": "color"
+        },
+        "contrast-disabled": {
+          "value": "#16243F",
+          "type": "color"
+        },
+        "border-error": {
+          "value": "#953757",
+          "type": "color"
+        }
+      },
+      "surface": {
+        "value": "{brand.blue-10}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{brand.blue-70}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{brand.blue-60}",
+        "type": "color"
       }
     },
     "overlay": {
