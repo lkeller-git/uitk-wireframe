@@ -199,6 +199,18 @@
       }
     },
     "select": {
+      "surface": {
+        "value": "{brand.blue-10}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{brand.blue-70}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{brand.blue-60}",
+        "type": "color"
+      },
       "state": {
         "surface-selected": {
           "value": "{brand.blue-60}",
@@ -219,19 +231,11 @@
         "border-error": {
           "value": "#953757",
           "type": "color"
+        },
+        "border-disabled": {
+          "value": "#16243F",
+          "type": "color"
         }
-      },
-      "surface": {
-        "value": "{brand.blue-10}",
-        "type": "color"
-      },
-      "contrast": {
-        "value": "{brand.blue-70}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{brand.blue-60}",
-        "type": "color"
       }
     },
     "overlay": {
