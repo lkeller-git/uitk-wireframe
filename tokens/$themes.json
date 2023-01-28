@@ -266,7 +266,8 @@
       "dark.state.contrast-error": "S:92cc447a5629d06f6dbe0cbcacd3af8438d3a162,",
       "dark.state.contrast-success": "S:e91aba99e8bbadd76f3420c8140e4c57ea401d65,",
       "dark.state.contrast-disabled": "S:6cba59ed7ec54fc40e4a41d4b8a50f4f2aec19c0,",
-      "dark.select.state.border-disabled": "S:14e38228ba7e5575b26c3c606dc2e3cce0573346,"
+      "dark.select.state.border-disabled": "S:14e38228ba7e5575b26c3c606dc2e3cce0573346,",
+      "dark.select.state.surface-disabled": "S:65d1345b08f50abae2729218892b21b2c9835d3d,"
     }
   }
 ]

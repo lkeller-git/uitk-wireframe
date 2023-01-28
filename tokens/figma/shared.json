@@ -212,6 +212,10 @@
         "type": "color"
       },
       "state": {
+        "surface-disabled": {
+          "value": "#050B16",
+          "type": "color"
+        },
         "surface-selected": {
           "value": "{brand.blue-60}",
           "type": "color"
