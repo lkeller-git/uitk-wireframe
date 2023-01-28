@@ -148,7 +148,7 @@
         "type": "color"
       },
       "contrast": {
-        "value": "#6785BF",
+        "value": "#669AFF",
         "type": "color"
       },
       "border": {
@@ -156,16 +156,16 @@
         "type": "color"
       },
       "state": {
+        "surface-hovered": {
+          "value": "#102856",
+          "type": "color"
+        },
         "surface-disabled": {
           "value": "#050B16",
           "type": "color"
         },
         "contrast-placeholder": {
           "value": "#304F8C",
-          "type": "color"
-        },
-        "contrast-focused": {
-          "value": "#669AFF",
           "type": "color"
         },
         "contrast-error": {

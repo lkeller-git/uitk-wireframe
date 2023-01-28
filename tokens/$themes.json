@@ -226,7 +226,6 @@
       "dark.secondary-action.state.surface-disabled": "S:332ff347334493d5d7e327a01b87e412e241da33,",
       "dark.secondary-action.state.surface-hovered": "S:cd9e98dc2eb0fe0f9ff03c243f46fe9eaa2083ae,",
       "dark.tertiary-action.state.contrast-disabled": "S:412f9c92936ca5ed0d68b76687aa79e1349234f5,",
-      "dark.input.state.contrast-focused": "S:fc0b46923f2b1f075997b4f6b2779a56b8c965c0,",
       "utility.variant-label": "S:c0c66dffdd2666b777242b727b9886371b57f252,",
       "dark.default.state.contrast-disabled": "S:10aaea16fd4789e31aeb0d16e3cbae4e491da241,",
       "dark.select.state.surface-selected": "S:bc9fe02a85e0b40739bcf47a0338f57e31cdcefb,",
@@ -267,7 +266,8 @@
       "dark.state.contrast-success": "S:e91aba99e8bbadd76f3420c8140e4c57ea401d65,",
       "dark.state.contrast-disabled": "S:6cba59ed7ec54fc40e4a41d4b8a50f4f2aec19c0,",
       "dark.select.state.border-disabled": "S:14e38228ba7e5575b26c3c606dc2e3cce0573346,",
-      "dark.select.state.surface-disabled": "S:65d1345b08f50abae2729218892b21b2c9835d3d,"
+      "dark.select.state.surface-disabled": "S:65d1345b08f50abae2729218892b21b2c9835d3d,",
+      "dark.input.state.surface-hovered": "S:b2561d32ff8f7df89e43a7e20083c0036ce2b6b9,"
     }
   }
 ]
