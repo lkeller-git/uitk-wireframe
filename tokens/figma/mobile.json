@@ -12,7 +12,7 @@
     "type": "sizing"
   },
   "touch-target-small": {
-    "value": "32",
+    "value": "40",
     "type": "sizing"
   },
   "touch-target-medium": {
@@ -184,5 +184,17 @@
       "letterSpacing": "{brand.letter-spacing-small}"
     },
     "type": "typography"
+  },
+  "shape-box-small": {
+    "value": "2",
+    "type": "borderRadius"
+  },
+  "shape-box-medium": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "shape-box-large": {
+    "value": "8",
+    "type": "borderRadius"
   }
 }
