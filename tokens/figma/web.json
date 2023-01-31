@@ -16,6 +16,10 @@
     "type": "sizing"
   },
   "touch-target-large": {
+    "value": "56",
+    "type": "sizing"
+  },
+  "touch-target-medium": {
     "value": "44",
     "type": "sizing"
   },
@@ -166,7 +170,7 @@
       "fontFamily": "{brand.font-family-primary}",
       "fontWeight": "{brand.font-weight-moderate}",
       "lineHeight": "{brand.line-height-medium}",
-      "fontSize": "{brand.font-size.mobile.xsmall}",
+      "fontSize": "{brand.font-size.mobile.small}",
       "letterSpacing": "{brand.letter-spacing-small}"
     },
     "type": "typography"
