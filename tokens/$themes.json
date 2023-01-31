@@ -1,14 +1,5 @@
 [
   {
-    "id": "8bf7c5e5c79718108ee37cfb4218bc673e194c3f",
-    "name": "mobile",
-    "selectedTokenSets": {
-      "brand": "source",
-      "figma/mobile": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "5f7beb91029b65073e848d2b36b3a35e48e76ae9",
     "name": "web",
     "selectedTokenSets": {
@@ -268,6 +259,29 @@
       "dark.select.state.border-disabled": "S:14e38228ba7e5575b26c3c606dc2e3cce0573346,",
       "dark.select.state.surface-disabled": "S:65d1345b08f50abae2729218892b21b2c9835d3d,",
       "dark.input.state.surface-hovered": "S:b2561d32ff8f7df89e43a7e20083c0036ce2b6b9,"
+    }
+  },
+  {
+    "id": "8bf7c5e5c79718108ee37cfb4218bc673e194c3f",
+    "name": "mobile",
+    "selectedTokenSets": {
+      "brand": "source",
+      "figma/mobile": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "display-small": "S:06960c88d07e7a64a6569a1e58ea112a177f6805,",
+      "headline-large": "S:2e508861648bb5f654f70a5473cb123d76b605db,",
+      "headline-medium": "S:458bfa43b9cb2bde1d38a906a70696bd75a549f7,",
+      "headline-small": "S:cc9efb8fe887b78c783cab87bd5352e9a45d07c0,",
+      "title-large": "S:f68b0226b9362cc3126136fcde3df91a333654b3,",
+      "title-medium": "S:1522999ff33ba1618bd33599fb1d1d2c4ceeb73a,",
+      "title-small": "S:fd26225a0f10732a753e5024da6632f9594f8c6a,",
+      "body-large": "S:549aa8f68058874cd7bf677368d49c528ac2ca63,",
+      "body-medium": "S:89e0329e7856b25ce2826cfaf2fe9fbb100a80a2,",
+      "body-small": "S:28f8b73eb7a6af73d2db3bba7312c900869a6638,",
+      "label-large": "S:8c41c0cce3f724415c1e89f6edd0f9c6c59139a4,",
+      "label-medium": "S:57db52cf73345ff405bc0d6c9eb38e124406590f,",
+      "label-small": "S:12c4b6c33fa025acb66445d667a98b29c83b6522,"
     }
   }
 ]
