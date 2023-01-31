@@ -1,6 +1,6 @@
 {
   "action-small": {
-    "value": "24",
+    "value": "32",
     "type": "sizing"
   },
   "action-medium": {
@@ -186,7 +186,7 @@
     "type": "typography"
   },
   "shape-box-small": {
-    "value": "2",
+    "value": "0",
     "type": "borderRadius"
   },
   "shape-box-medium": {
