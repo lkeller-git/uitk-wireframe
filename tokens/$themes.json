@@ -252,7 +252,6 @@
       "dark.action-tertiary.state.contrast-error": "S:f74ddce1ab2fd703b4029cfa085ccd9624ffb515,",
       "dark.action-tertiary.state.contrast-disabled": "S:cc37027c31d2f65d0b1a853179249e012f238bb9,",
       "dark.background": "S:39d38074c722fb1df387d2cd3fbe874da69d831e,",
-      "dark.contrast": "S:78f7d836aff32d9970c5bc43542da4b048d2d0db,",
       "dark.state.contrast-error": "S:92cc447a5629d06f6dbe0cbcacd3af8438d3a162,",
       "dark.state.contrast-success": "S:e91aba99e8bbadd76f3420c8140e4c57ea401d65,",
       "dark.state.contrast-disabled": "S:6cba59ed7ec54fc40e4a41d4b8a50f4f2aec19c0,",
@@ -291,7 +290,10 @@
       "dark.notification.state.contrast-success": "S:b623d741ee266c63406bd5640b06e60ae6e677f0,",
       "dark.notification.state.contrast-error": "S:a12feb0394e81c6921ac0fa4caad0eed8822f3b1,",
       "dark.notification.state.border-success": "S:1d97ab315fa271007772a3ce69b93a0af8f6856e,",
-      "dark.notification.state.border-error": "S:0704f61ed32cef548bdd14422942a0c28abb2745,"
+      "dark.notification.state.border-error": "S:0704f61ed32cef548bdd14422942a0c28abb2745,",
+      "dark.contrast-strong": "S:78f7d836aff32d9970c5bc43542da4b048d2d0db,",
+      "dark.contrast-moderate": "S:c8f394f89129dcb78c687d61da147c333f8cd23f,",
+      "dark.state.separator": "S:2f1ea94b92c57e3a932513c3d408c3332961bd16,"
     }
   },
   {

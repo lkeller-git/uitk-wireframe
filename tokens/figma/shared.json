@@ -16,11 +16,19 @@
       "value": "{brand.blue-5}",
       "type": "color"
     },
-    "contrast": {
+    "contrast-strong": {
       "value": "{brand.neutral-100}",
       "type": "color"
     },
+    "contrast-moderate": {
+      "value": "#8590AD",
+      "type": "color"
+    },
     "state": {
+      "separator": {
+        "value": "#1F2A47",
+        "type": "color"
+      },
       "contrast-error": {
         "value": "#E74B6D",
         "type": "color"
