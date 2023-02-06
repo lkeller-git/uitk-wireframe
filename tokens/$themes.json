@@ -4,7 +4,9 @@
     "name": "web",
     "selectedTokenSets": {
       "brand": "source",
-      "figma/web": "enabled"
+      "figma/web": "enabled",
+      "system": "disabled",
+      "figma/shared": "disabled"
     },
     "$figmaStyleReferences": {
       "light.background": "S:002944a0f49b5bcecd2e91b002300e7086e801e7,",
@@ -106,7 +108,8 @@
     "name": "shared",
     "selectedTokenSets": {
       "brand": "source",
-      "figma/shared": "enabled"
+      "system": "disabled",
+      "figma/shared": "disabled"
     },
     "$figmaStyleReferences": {
       "light.background": "S:fc7320c40227a3a880d87044998c5ae2cc1bdf13,",
@@ -301,7 +304,9 @@
     "name": "mobile",
     "selectedTokenSets": {
       "brand": "source",
-      "figma/mobile": "enabled"
+      "figma/mobile": "enabled",
+      "system": "disabled",
+      "figma/shared": "disabled"
     },
     "$figmaStyleReferences": {
       "display-small": "S:06960c88d07e7a64a6569a1e58ea112a177f6805,",

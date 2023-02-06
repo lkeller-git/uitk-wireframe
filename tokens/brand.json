@@ -1,99 +1,43 @@
 {
   "brand": {
-    "neutral-0": {
-      "value": "#000000",
+    "neutral-5": {
+      "value": "rgba(0,0,27,1)",
       "type": "color"
     },
-    "neutral-40": {
-      "value": "#596378",
+    "neutral-5-70": {
+      "value": "rgba(0,0,27,0.7)",
+      "type": "color"
+    },
+    "primary-100": {
+      "value": "rgba(46,108,208,1)",
+      "type": "color"
+    },
+    "primary-45-25": {
+      "value": "rgba(99,116,133,0.25)",
       "type": "color"
     },
     "neutral-100": {
-      "value": "#FFFFFF",
+      "value": "rgba(255,255,255,1)",
       "type": "color"
     },
-    "blue-5": {
-      "value": "#060a14",
+    "neutral-100-50": {
+      "value": "rgba(255,255,255,0.5)",
       "type": "color"
     },
-    "blue-5-70": {
-      "value": "rgba(6,10,20,0.7)",
-      "type": "color"
-    },
-    "blue-10": {
-      "value": "#08142B",
-      "type": "color"
-    },
-    "blue-20": {
-      "value": "#002366",
-      "type": "color"
-    },
-    "blue-30": {
-      "value": "#003499",
-      "type": "color"
-    },
-    "blue-40": {
-      "value": "#0045CC",
-      "type": "color"
-    },
-    "blue-50": {
-      "value": "#0057FF",
-      "type": "color"
-    },
-    "blue-60": {
-      "value": "#3378FF",
-      "type": "color"
-    },
-    "blue-70": {
-      "value": "#669AFF",
-      "type": "color"
-    },
-    "blue-80": {
-      "value": "#B1C3E7",
-      "type": "color"
-    },
-    "blue-90": {
-      "value": "#D8E1F3",
-      "type": "color"
-    },
-    "blue-95": {
-      "value": "#F3F6FB",
-      "type": "color"
-    },
-    "red-40": {
-      "value": "#B4183A",
-      "type": "color"
-    },
-    "red-50": {
-      "value": "#E11E49",
-      "type": "color"
-    },
-    "red-60": {
-      "value": "#E74B6D",
-      "type": "color"
-    },
-    "green-30": {
-      "value": "#19804F",
-      "type": "color"
-    },
-    "green-40": {
-      "value": "#22AA69",
-      "type": "color"
-    },
-    "green-50": {
-      "value": "#2AD583",
+    "neutral-100-15": {
+      "value": "rgba(255,255,255,0.15)",
       "type": "color"
     },
     "font-family-primary": {
-      "value": "Inter",
+      "value": "Gotham",
       "type": "fontFamilies"
     },
     "font-weight-weak": {
-      "value": "Regular",
+      "value": "Book",
       "type": "fontWeights"
     },
     "font-weight-moderate": {
-      "value": "Semi Bold",
+      "value": "Medium",
       "type": "fontWeights"
     },
     "font-weight-strong": {
@@ -115,6 +59,38 @@
     "letter-spacing-small": {
       "value": "0",
       "type": "letterSpacing"
+    },
+    "space-xxsmall": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "space-xsmall": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "space-small": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "space-medium": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "space-large": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "space-xlarge": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "space-xxlarge": {
+      "value": "40",
+      "type": "spacing"
+    },
+    "space-xxxlarge": {
+      "value": "56",
+      "type": "spacing"
     },
     "size-xxsmall": {
       "value": "8",
@@ -144,16 +120,16 @@
       "value": "56",
       "type": "sizing"
     },
-    "rounding-small": {
+    "border-radius-small": {
       "value": "0",
       "type": "borderRadius"
     },
-    "rounding-medium": {
+    "border-radius-medium": {
       "value": "4",
       "type": "borderRadius"
     },
-    "rounding-large": {
-      "value": "100%",
+    "border-radius-large": {
+      "value": "capsule",
       "type": "borderRadius"
     },
     "line-width-small": {
@@ -170,40 +146,6 @@
     },
     "font-size": {
       "mobile": {
-        "xxsmall": {
-          "value": "10",
-          "type": "fontSizes"
-        },
-        "xsmall": {
-          "value": "12",
-          "type": "fontSizes"
-        },
-        "small": {
-          "value": "14",
-          "type": "fontSizes"
-        },
-        "medium": {
-          "value": "16",
-          "type": "fontSizes"
-        },
-        "large": {
-          "value": "18",
-          "type": "fontSizes"
-        },
-        "xlarge": {
-          "value": "24",
-          "type": "fontSizes"
-        },
-        "xxlarge": {
-          "value": "28",
-          "type": "fontSizes"
-        },
-        "xxxlarge": {
-          "value": "32",
-          "type": "fontSizes"
-        }
-      },
-      "web": {
         "xxsmall": {
           "value": "10",
           "type": "fontSizes"

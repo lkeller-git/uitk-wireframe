@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "brand",
+    "system",
     "figma/shared",
     "figma/mobile",
     "figma/web"
