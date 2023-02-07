@@ -231,15 +231,15 @@
   },
   "size": {
     "icon-small": {
-      "value": "{brand.size-small}",
+      "value": "{brand.size-xsmall}",
       "type": "sizing"
     },
     "icon-medium": {
-      "value": "{brand.size-medium}",
+      "value": "{brand.size-small}",
       "type": "sizing"
     },
     "icon-large": {
-      "value": "{brand.size-large}",
+      "value": "{brand.size-medium}",
       "type": "sizing"
     },
     "touch-target-small": {
@@ -250,12 +250,16 @@
       "value": "{brand.size-xlarge}",
       "type": "sizing"
     },
+    "touch-target-large": {
+      "value": "{brand.size-xxlarge}",
+      "type": "sizing"
+    },
     "button-surface-small": {
       "value": "{brand.size-medium}",
       "type": "sizing"
     },
     "button-surface-medium": {
-      "value": "{brand.size-large}",
+      "value": "{brand.size-xlarge}",
       "type": "sizing"
     },
     "button-surface-large": {

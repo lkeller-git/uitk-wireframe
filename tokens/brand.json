@@ -92,16 +92,20 @@
       "value": "56",
       "type": "spacing"
     },
-    "size-xxsmall": {
+    "size-xxxsmall": {
       "value": "8",
       "type": "sizing"
     },
-    "size-xsmall": {
+    "size-xxsmall": {
       "value": "12",
       "type": "sizing"
     },
-    "size-small": {
+    "size-xsmall": {
       "value": "16",
+      "type": "sizing"
+    },
+    "size-small": {
+      "value": "18",
       "type": "sizing"
     },
     "size-medium": {
@@ -117,7 +121,7 @@
       "type": "sizing"
     },
     "size-xxlarge": {
-      "value": "44",
+      "value": "48",
       "type": "sizing"
     },
     "size-xxxlarge": {
