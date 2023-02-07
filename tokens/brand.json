@@ -28,6 +28,10 @@
       "value": "rgba(255,255,255,0.15)",
       "type": "color"
     },
+    "neutral-100-25": {
+      "value": "rgba(255,255,255,0.25)",
+      "type": "color"
+    },
     "font-family-primary": {
       "value": "Gotham",
       "type": "fontFamilies"
