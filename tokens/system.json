@@ -242,16 +242,16 @@
       "value": "{brand.size-large}",
       "type": "sizing"
     },
-    "touch-target-min": {
+    "touch-target-small": {
       "value": "{brand.size-large}",
       "type": "sizing"
     },
-    "touch-target-default": {
+    "touch-target-medium": {
       "value": "{brand.size-xlarge}",
       "type": "sizing"
     },
     "button-surface-small": {
-      "value": "{brand.size-small}",
+      "value": "{brand.size-medium}",
       "type": "sizing"
     },
     "button-surface-medium": {
@@ -259,7 +259,7 @@
       "type": "sizing"
     },
     "button-surface-large": {
-      "value": "{brand.size-xlarge}",
+      "value": "{brand.size-xxlarge}",
       "type": "sizing"
     },
     "line-width-small": {

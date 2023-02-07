@@ -113,10 +113,14 @@
       "type": "sizing"
     },
     "size-xlarge": {
-      "value": "44",
+      "value": "40",
       "type": "sizing"
     },
     "size-xxlarge": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "size-xxxlarge": {
       "value": "56",
       "type": "sizing"
     },
