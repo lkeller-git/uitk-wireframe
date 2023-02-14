@@ -88,6 +88,10 @@
         "type": "color"
       },
       "state": {
+        "surface-focused": {
+          "value": "#22404E",
+          "type": "color"
+        },
         "contrast-muted-focused": {
           "value": "#8AC3DB",
           "type": "color"
