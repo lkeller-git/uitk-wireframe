@@ -96,6 +96,10 @@
           "value": "#8AC3DB",
           "type": "color"
         },
+        "surface-error": {
+          "value": "#3E2121",
+          "type": "color"
+        },
         "contrast-muted-error": {
           "value": "#FE4F43",
           "type": "color"
