@@ -13,28 +13,24 @@
   },
   "dark": {
     "background": {
-      "value": "{brand.blue-5}",
+      "value": "#0E1518",
       "type": "color"
     },
-    "contrast-strong": {
+    "contrast": {
       "value": "{brand.neutral-100}",
       "type": "color"
     },
-    "contrast-moderate": {
-      "value": "#8590AD",
+    "contrast-muted": {
+      "value": "#9FA1A2",
       "type": "color"
     },
     "state": {
-      "separator": {
-        "value": "#1F2A47",
+      "contrast-link": {
+        "value": "#6CAAC6",
         "type": "color"
       },
       "contrast-error": {
-        "value": "#E74B6D",
-        "type": "color"
-      },
-      "contrast-success": {
-        "value": "{brand.green-50}",
+        "value": "#FE7067",
         "type": "color"
       },
       "contrast-disabled": {
@@ -45,274 +41,118 @@
     "button": {
       "primary": {
         "surface": {
-          "value": "{brand.blue-60}",
+          "value": "#FFFFFF",
           "type": "color"
         },
         "contrast": {
-          "value": "{brand.blue-5}",
+          "value": "#2b2b2b",
           "type": "color"
-        },
-        "state": {
-          "surface-hover": {
-            "value": "#669AFF",
-            "type": "color"
-          },
-          "surface-error": {
-            "value": "#BA4060",
-            "type": "color"
-          },
-          "surface-disabled": {
-            "value": "#102249",
-            "type": "color"
-          },
-          "contrast-hover": {
-            "value": "{brand.blue-5}",
-            "type": "color"
-          },
-          "contrast-disabled": {
-            "value": "{brand.blue-5}",
-            "type": "color"
-          }
         }
       },
       "secondary": {
         "surface": {
-          "value": "{dark.background}",
+          "value": "#223036",
           "type": "color"
         },
         "contrast": {
-          "value": "{brand.blue-60}",
+          "value": "#ffffff",
           "type": "color"
-        },
-        "border": {
-          "value": "{brand.blue-60}",
-          "type": "color"
-        },
-        "state": {
-          "surface-hovered": {
-            "value": "#102856",
-            "type": "color"
-          },
-          "surface-disabled": {
-            "value": "#050B16",
-            "type": "color"
-          },
-          "contrast-error": {
-            "value": "#BA4060",
-            "type": "color"
-          },
-          "contrast-success": {
-            "value": "#23AE71",
-            "type": "color"
-          },
-          "contrast-disabled": {
-            "value": "#16243F",
-            "type": "color"
-          },
-          "border-error": {
-            "value": "#953757",
-            "type": "color"
-          },
-          "border-success": {
-            "value": "#1C8860",
-            "type": "color"
-          },
-          "border-disabled": {
-            "value": "#16243F",
-            "type": "color"
-          }
         }
       },
       "tertiary": {
-        "surface": {
-          "value": "{dark.background}",
+        "contrast-text": {
+          "value": "#6CAAC6",
           "type": "color"
         },
-        "contrast": {
-          "value": "{brand.blue-60}",
+        "contrast-icon": {
+          "value": "#FFFFFF",
           "type": "color"
-        },
-        "state": {
-          "surface-hover": {
-            "value": "#0A152B",
-            "type": "color"
-          },
-          "surface-disabled": {
-            "value": "clear",
-            "type": "color"
-          },
-          "contrast-error": {
-            "value": "#BA4060",
-            "type": "color"
-          },
-          "contrast-disabled": {
-            "value": "#16243F",
-            "type": "color"
-          }
         }
       }
     },
     "input": {
       "surface": {
-        "value": "{brand.blue-10}",
+        "value": "#1A252A",
         "type": "color"
       },
       "contrast": {
-        "value": "#669AFF",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "contrast-muted": {
+        "value": "#81A2B1",
         "type": "color"
       },
       "border": {
-        "value": "#3F5F9E",
+        "value": "#81A2B1",
         "type": "color"
       },
       "state": {
-        "surface-hovered": {
-          "value": "#102856",
-          "type": "color"
-        },
-        "surface-disabled": {
-          "value": "#050B16",
-          "type": "color"
-        },
-        "contrast-placeholder": {
-          "value": "#304F8C",
-          "type": "color"
-        },
-        "contrast-error": {
-          "value": "#BA4060",
-          "type": "color"
-        },
-        "contrast-success": {
-          "value": "#23AE71",
-          "type": "color"
-        },
-        "contrast-disabled": {
-          "value": "#16243F",
+        "contrast-muted-focused": {
+          "value": "#8AC3DB",
           "type": "color"
         },
         "border-focused": {
-          "value": "{brand.blue-60}",
+          "value": "#8AC3DB",
+          "type": "color"
+        },
+        "contrast-muted-error": {
+          "value": "#FE4F43",
           "type": "color"
         },
         "border-error": {
-          "value": "#953757",
-          "type": "color"
-        },
-        "border-success": {
-          "value": "#1C8860",
-          "type": "color"
-        },
-        "border-disabled": {
-          "value": "#16243F",
+          "value": "#FE4F43",
           "type": "color"
         }
       }
     },
     "select": {
       "surface": {
-        "value": "{brand.blue-10}",
+        "value": "#223036",
         "type": "color"
       },
       "contrast": {
-        "value": "{brand.blue-70}",
-        "type": "color"
-      },
-      "border": {
-        "value": "{brand.blue-60}",
+        "value": "#ffffff",
         "type": "color"
       },
       "state": {
-        "surface-disabled": {
-          "value": "#050B16",
-          "type": "color"
-        },
         "surface-selected": {
-          "value": "{brand.blue-60}",
+          "value": "#ffffff",
           "type": "color"
         },
         "contrast-selected": {
-          "value": "{brand.blue-5}",
-          "type": "color"
-        },
-        "contrast-error": {
-          "value": "#BA4060",
-          "type": "color"
-        },
-        "contrast-disabled": {
-          "value": "#16243F",
-          "type": "color"
-        },
-        "border-error": {
-          "value": "#953757",
-          "type": "color"
-        },
-        "border-disabled": {
-          "value": "#16243F",
+          "value": "#2b2b2b",
           "type": "color"
         }
       }
     },
     "notification": {
       "surface": {
-        "value": "#08142b",
+        "value": "#22404E",
         "type": "color"
       },
-      "contrast-strong": {
-        "value": "#3378ff",
-        "type": "color"
-      },
-      "contrast-moderate": {
+      "contrast": {
         "value": "#ffffff",
         "type": "color"
       },
-      "border": {
-        "value": "#3378ff",
+      "contrast-muted": {
+        "value": "#8AC3DB",
         "type": "color"
       },
-      "state": {
-        "surface-inline": {
-          "value": "#060a14",
-          "type": "color"
-        },
-        "contrast-success": {
-          "value": "{brand.green-50}",
-          "type": "color"
-        },
-        "contrast-error": {
-          "value": "#E74B6D",
-          "type": "color"
-        },
-        "border-success": {
-          "value": "{brand.green-50}",
-          "type": "color"
-        },
-        "border-error": {
-          "value": "#E74B6D",
-          "type": "color"
-        }
+      "border": {
+        "value": "#8AC3DB",
+        "type": "color"
       }
     },
     "overlay": {
       "background": {
-        "value": "{brand.blue-5-70}",
+        "value": "rgba(14,21,24,0.7)",
         "type": "color"
       },
       "contrast": {
-        "value": "{brand.neutral-100}",
+        "value": "#ffffff",
         "type": "color"
       }
-    }
-  },
-  "utility": {
-    "variant-label": {
-      "value": {
-        "fontFamily": "Roboto Mono",
-        "fontWeight": "Regular",
-        "lineHeight": "125%",
-        "fontSize": "18",
-        "letterSpacing": "0"
-      },
-      "type": "typography"
     }
   }
 }
