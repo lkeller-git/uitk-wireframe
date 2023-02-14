@@ -11,7 +11,7 @@
     "value": "32",
     "type": "sizing"
   },
-  "dark": {
+  "Dark": {
     "background": {
       "value": "#0E1518",
       "type": "color"
