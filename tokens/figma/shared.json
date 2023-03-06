@@ -18,7 +18,7 @@
         "type": "color"
       },
       "surface-primary-disabled": {
-        "value": "{brand.primary-45-25}",
+        "value": "{brand.primary-65-60}",
         "type": "color"
       },
       "surface-secondary": {
@@ -186,7 +186,7 @@
         "type": "color"
       },
       "surface-primary": {
-        "value": "{brand.primary-45-25}",
+        "value": "{brand.primary-65-60}",
         "type": "color"
       },
       "surface-primary-border": {
